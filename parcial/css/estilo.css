@@ -136,7 +136,7 @@ footer article hr { height: 1px; width: 100%; margin: 0; float: none; position: 
 
 /*Inferior Footer*/
 
-footer article div#inferior-footer { width: 180px; height: auto; margin: 0; float: right; position: relative;  padding: 30px 450px 0;}
+footer article div#inferior-footer { width: 180px; height: auto; margin: 0 auto; float: none; position: relative;  padding: 30px 0px 0;}
 footer article div#inferior-footer nav { width: 178px; height: auto; margin: 0; float: none; position: relative;}
 footer article div#inferior-footer nav a { width: 37px; height: 37px; float: left; position: relative; color: #fff; border-radius: 50%; text-align: center; margin: 0 7px 0 0; transition: all 0.3s ease-in; }
 footer article div#inferior-footer nav a i { text-align: center; font-size: 0.9em; padding: 12px 0 0 0;}
