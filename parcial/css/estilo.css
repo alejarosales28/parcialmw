@@ -158,91 +158,91 @@ footer article div#inferior-footer nav a:hover { background: #222222; color: #ff
 
 @media only screen and (max-width: 1199px){
 
-    aside#menu-movil { display: block;}
+  aside#menu-movil { display: block;}
 
-    header { width: 100%; height: 100px; position: fixed; left: 0; z-index: 99998; margin: 0; float: none; top: 0}
+  header { width: 100%; height: 100px; position: fixed; left: 0; z-index: 99998; margin: 0; float: none; top: 0}
 
-    header article { float: left; top: 10px; margin: 0 auto; display: block; width: 80%; padding: 0 0 0 95px; }
-    header article a {  margin: 0 auto; float: none; display: block; padding: 0; }
-    header article a img {  margin: 0 auto; float: none; display: block; padding: 14px 0; }
+  header article { float: left; top: 10px; margin: 0 auto; display: block; width: 80%; padding: 0 0 0 95px; }
+  header article a {  margin: 0 auto; float: none; display: block; padding: 0; }
+  header article a img {  margin: 0 auto; float: none; display: block; padding: 14px 0; }
 
-    header article nav { display: none;}
+  header article nav { display: none;}
 
-    /*main*/
+  /*main*/
 
-    /*Section Happy Hour*/
+  /*Section Happy Hour*/
 
-    main section#happy-hour article { width: 100%; height: auto; float: none; margin: 0 auto;}
-    
-    main section#happy-hour article div#happy-hour-texto { display: block; height: auto; width: 80%;}
-
-    main section#happy-hour article img { width: 70%; height: auto; }
-
-    /* Section Our Menu*/
-
-    main section#our-menu article { width: 80%; height: auto; padding: 100px 0; } 
-
-    main section#our-menu article h1 { margin: 0 0 70px 0; }
-
-    main section#our-menu article div#fila-platos {  width: 80%;  height: auto;  margin: 0 auto;  float: none;}
-    
-    main section#our-menu article div#fila-platos figure:nth-child(1) { margin: 0 auto 30px; float: none;}
-    main section#our-menu article div#fila-platos figure:nth-child(2) { margin: 0 auto 30px; float: none;}
-    main section#our-menu article div#fila-platos figure:nth-child(3) { margin: 0 auto 30px; float: none;}
-
-    /*Section Free Pizza*/
-
-    main section#free-pizza article { width: 80%; }
-
+  main section#happy-hour article { width: 100%; height: auto; float: none; margin: 0 auto;}
   
-    main section#free-pizza article div#free-pizza-promo { height: auto; float: none; margin: 0 auto; padding: 106px 0; }
-    main section#free-pizza article div#free-pizza-promo { width: 396px; height: auto; float: none; position: relative; margin: 0 auto; padding: 57px 0; } 
-    main section#free-pizza article div#free-pizza-promo h5 { float: none; margin: 0 auto; height: 84px; width: auto; text-align: center; padding: 0 0 13px;}
-    main section#free-pizza article div#free-pizza-promo h3 { float: none;  margin: 0 auto; padding: 0 0 32px; text-align: center; line-height: 1em;}
-    main section#free-pizza article div#free-pizza-promo a {  margin: 6px auto 0; padding: 12px 36px 12px 36px; float: none; text-align: center; display: block; height: 22px; width: 100px}
+  main section#happy-hour article div#happy-hour-texto { display: block; height: auto; width: 80%;}
 
+  main section#happy-hour article img { width: 70%; height: auto; }
 
-    /*Footer*/
+  /* Section Our Menu*/
 
-    footer article { width: 80%; height: auto; }
-    footer article div#superior-footer { width: 100%; height: auto; }
+  main section#our-menu article { width: 80%; height: auto; padding: 100px 0; } 
 
-    footer article div#superior-footer p { line-height: 1.5em; padding: 0 39px ; }
+  main section#our-menu article h1 { margin: 0 0 70px 0; }
+
+  main section#our-menu article div#fila-platos {  width: 80%;  height: auto;  margin: 0 auto;  float: none;}
   
-    footer article div#inferior-footer { margin: 0 auto; float: none;}
+  main section#our-menu article div#fila-platos figure:nth-child(1) { margin: 0 auto 30px; float: none;}
+  main section#our-menu article div#fila-platos figure:nth-child(2) { margin: 0 auto 30px; float: none;}
+  main section#our-menu article div#fila-platos figure:nth-child(3) { margin: 0 auto 30px; float: none;}
+
+  /*Section Free Pizza*/
+
+  main section#free-pizza article { width: 80%; }
+
+
+  main section#free-pizza article div#free-pizza-promo { height: auto; float: none; margin: 0 auto; padding: 106px 0; }
+  main section#free-pizza article div#free-pizza-promo { width: 396px; height: auto; float: none; position: relative; margin: 0 auto; padding: 57px 0; } 
+  main section#free-pizza article div#free-pizza-promo h5 { float: none; margin: 0 auto; height: 84px; width: auto; text-align: center; padding: 0 0 13px;}
+  main section#free-pizza article div#free-pizza-promo h3 { float: none;  margin: 0 auto; padding: 0 0 32px; text-align: center; line-height: 1em;}
+  main section#free-pizza article div#free-pizza-promo a {  margin: 6px auto 0; padding: 12px 36px 12px 36px; float: none; text-align: center; display: block; height: 22px; width: 100px}
+
+
+  /*Footer*/
+
+  footer article { width: 80%; height: auto; }
+  footer article div#superior-footer { width: 100%; height: auto; }
+
+  footer article div#superior-footer p { line-height: 1.5em; padding: 0 39px ; }
+
+  footer article div#inferior-footer { margin: 0 auto; float: none;}
 
 
 
 
 
 }
-   
-   
-   
+ 
+ 
+ 
 @media only screen and (max-width: 599px){ 
 
-  header article { padding: 0 0 0 48px }
+header article { padding: 0 0 0 48px }
 
 
-  main section#our-menu article div#fila-platos figure { width: 283px; height: 317px;} 
-  main section#our-menu article div#fila-platos figure:nth-child(2) { width: 309px; height: 348px;}
+main section#our-menu article div#fila-platos figure { width: 283px; height: 317px;} 
+main section#our-menu article div#fila-platos figure:nth-child(2) { width: 309px; height: 348px;}
 
 
 
-  main section#free-pizza article div#free-pizza-promo {  width: auto ; height: auto;  }
+main section#free-pizza article div#free-pizza-promo {  width: none ; height: auto;  }
 
- }
+}
 
- /*Ajustes para móviles*/
+/*Ajustes para móviles*/
 
- @media only screen and (max-width: 499px){ 
+@media only screen and (max-width: 499px){ 
 
-    header article a { margin: 0; float: left;}
+  header article a { margin: 0; float: left;}
 
-    header article { float: left; top: 10px; margin: 0 auto; display: block; width: 80%; padding: 0 0 0 38px;}
+  header article { float: left; top: 10px; margin: 0 auto; display: block; width: 80%; padding: 0 0 0 38px;}
 
-  
 
-  }
+
+}
 
 @media only screen and (max-width: 399px){  }
