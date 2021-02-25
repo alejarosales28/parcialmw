@@ -18,18 +18,18 @@ body { margin: 0 !important; background: #F4F7EE;}
 aside#menu-movil { width: 290px; display: none; height: 100%; margin: 0; float: none; position: fixed; top: 0; right: -290px; z-index: 99999; background: rgb(137 182 87 / 92%);}
 
 aside#menu-movil #abrir { width: 40px; height: auto; display: block; margin: 0; float: none; position: absolute; top: 25px; left: -40px; z-index: 99996; background: #89b657; color: #fff; text-align: center; font-size: 1.3em; padding: 8px 0; transition: all 0.3s ease-in; border-radius: 5px 0 0 5px;  }
-aside#menu-movil #abrir:hover { background: #10aa32; transition: all 0.3s ease-in;}
+aside#menu-movil #abrir:hover { background: #222222; transition: all 0.3s ease-in;}
 
 
 aside#menu-movil #cerrar {width: 40px; height: auto; display: none; margin: 0; float: none; position: absolute; top: 25px; left: -40px; z-index: 99996; background: #89B657; color: #fff; text-align: center; font-size: 1.3em; padding: 8px 0; transition: all 0.3s ease-in; border-radius: 5px 0 0 5px;}
-aside#menu-movil #cerrar:hover { background: #10aa32 ; transition: all 0.3s ease-in;}
+aside#menu-movil #cerrar:hover { background: #222222 ; transition: all 0.3s ease-in;}
 
 
 aside#menu-movil nav { width: 80%; height: auto; display: block; margin: 40px auto 0 auto; float: none; position: relative; }
 aside#menu-movil nav a { width: 100%; height: auto; display: block; margin: 0 auto 20px; float: none; position: relative; color: #fff; text-decoration: none; transition: all 0.3s ease-in; text-align: center; font-family: 'Roboto Condensed', sans-serif; text-transform: uppercase; font-weight: 600; font-size: 0.95em; text-align: center; letter-spacing: 0.02em; }
 aside#menu-movil nav a:hover { color: #222222; transition: all 0.3s ease-in;}
 aside#menu-movil nav a:last-child { height: auto; background: #fff; transition: all 0.3s ease-in; color: #89b657; padding: 12px 24px 12px 24px; border-radius: 50px; width: 96px; top: 30px; }
-aside#menu-movil nav a:last-child:hover { background: #10aa32; transition: all 0.3s ease-in; color: #fff; }
+aside#menu-movil nav a:last-child:hover { background: #222222; transition: all 0.3s ease-in; color: #fff; }
 
 
 
