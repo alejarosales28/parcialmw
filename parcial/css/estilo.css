@@ -72,7 +72,7 @@ main section#happy-hour article div#happy-hour-texto a { width: 115px; height: a
 main section#happy-hour article div#happy-hour-texto a:hover { transition: all 0.3s ease-in; background: #10aa32;}
 
 
-main section#happy-hour article img { width: 700px; height: auto; position: relative; margin: 0 auto; float: none; display: block; z-index: 99997; left: 84px; padding: 0 160px 0 0; }
+main section#happy-hour article img { width: 700px; height: auto; position: relative; margin: 0 auto; float: none; display: block; z-index: 99997; left: 84px; padding: 0; }
 
 
 
